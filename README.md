@@ -44,12 +44,19 @@ seaborn
 ## 📂 Project Structure
 
 Diabetes-Prediction/
+
 │── data_loader.py
+
 │── diabetes.csv
+
 │── gui.py
+
 │── model_trainer.py
+
 │── predictor.py
+
 │── report.pdf
+
 │── README.md
 
 ## 👨‍💻 Author
