@@ -35,11 +35,9 @@ This project aims to predict whether a person has diabetes or not using machine 
 
 ## 🛠️ Requirements
 
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
+```bash
+pip install numpy pandas scikit-learn matplotlib seaborn pyqt
+```
 
 ## 📂 Project Structure
 
